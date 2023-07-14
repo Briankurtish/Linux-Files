@@ -1,0 +1,1 @@
+This is a simple message to practice the cut command in linux
